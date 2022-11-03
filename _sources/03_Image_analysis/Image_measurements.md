@@ -23,12 +23,6 @@ types of methods that can be used to obtain this measurement.
 
 <i class="fas fa-file" style="color:DarkTurquoise;margin-right:5px"></i> Test text here
 
-<i class="fas fa-file-text style="color:DarkTurquoise;margin-right:5px"></i> Test text here                                         
-                                                                      
-<i class="fa fa-file-text style="color:DarkTurquoise;margin-right:5px"></i> Test text here                                              
-
-<i class="fab fa-file-text style="color:DarkTurquoise;margin-right:5px"></i> Test text here
-
 <i class="fas fa-file" style="color:DarkTurquoise;margin-right:5px"></i>
 <i class="fas fa-bell"></i>
 <i class="fa fa-bell"></i> v2
@@ -36,4 +30,5 @@ types of methods that can be used to obtain this measurement.
 <i class="fa fa-circle"></i> v3
 <i class="fa fa-hourglass"></i> v4.4
 
+<i class="fas fa-file" style="color:DarkTurquoise;margin-right:5px"></i>
 
