@@ -21,4 +21,4 @@ types of methods that can be used to obtain this measurement.
 
 <i class="fa fa-check fa-1x" style="color:DarkTurquoise;margin-right:5px"></i> Test text here
 
-<i class="fa fa-file-lines" style="color:#42A5F5;margin-right:5px"></i> Test text here
+<i class="fa fa-file-lines fa-1x" style="color:DarkTurquoise;margin-right:5px"></i> Test text here
