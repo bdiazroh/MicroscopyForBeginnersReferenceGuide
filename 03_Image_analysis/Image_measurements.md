@@ -31,5 +31,9 @@ types of methods that can be used to obtain this measurement.
 
 <i class="fas fa-file"></i>
 <i class="fas fa-bell"></i>
-<i class="fa fa-bell"></i>
+<i class="fa fa-bell"></i> v2
+<i class="fa fa-file-code-o"></i> v4
+<i class="fa fa-circle"></i> v3
+<i class="fa fa-hourglass"></i> v4.4
+
 
