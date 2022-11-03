@@ -18,3 +18,9 @@ types of methods that can be used to obtain this measurement.
 - [Theory behind colocalization](https://svi.nl/ColocalizationTheory)
 
 - <i class="fa-solid fa-file-lines" style="color:#42A5F5;margin-right:5px"></i> [Co-occurrence versus correlation and their use in bioimage analysis](https://journals.biologists.com/jcs/article/131/3/jcs211847/77151/Image-co-localization-co-occurrence-versus)
+
+<i class="fa fa-check fa-1x" style="color:DarkTurquoise;margin-right:5px"></i>
+
+<i class="fa-solid fa-file-lines" style="color:#42A5F5;margin-right:5px"></i>
+
+<i class="fa-solid fa-file-lines"></i>
