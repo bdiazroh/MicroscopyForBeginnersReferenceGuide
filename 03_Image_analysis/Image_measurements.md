@@ -21,12 +21,11 @@ types of methods that can be used to obtain this measurement.
 
 <i class="fa fa-check fa-1x" style="color:DarkTurquoise;margin-right:5px"></i> Test text here
 
-<i class="fa fa-file-text" style="color:DarkTurquoise;margin-right:5px"></i> Test text here
+<i class="fas fa-file"style="color:DarkTurquoise;margin-right:5px"></i> Test text here
 
-<i class="fa fa-file-text" aria-hidden="true"></i>
+<i class="fas fa-file-text"style="color:DarkTurquoise;margin-right:5px"></i> Test text here
 
-<i class="fa fa-file-text"></i>
+<i class="fab fa-file-text"style="color:DarkTurquoise;margin-right:5px"></i> Test text here
 
-<i class="fa fa-line-chart" aria-hidden="true"></i>
 
 <i class="fas fa-file"></i>
