@@ -29,4 +29,4 @@ types of methods that can be used to obtain this measurement.
 
 <i class="fa fa-line-chart" aria-hidden="true"></i>
 
-
+<i class="fas fa-file"></i>
