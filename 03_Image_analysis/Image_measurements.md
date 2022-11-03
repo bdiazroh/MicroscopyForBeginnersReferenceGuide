@@ -25,10 +25,13 @@ types of methods that can be used to obtain this measurement.
 
 <i class="fas fa-file" style="color:DarkTurquoise;margin-right:5px"></i>
 <i class="fas fa-bell"></i>
+
 <i class="fa fa-bell"></i> v2
 <i class="fa fa-file-code-o"></i> v4
 <i class="fa fa-circle"></i> v3
 <i class="fa fa-hourglass"></i> v4.4
 
-<i class="fas fa-file" style="color:DarkTurquoise;margin-right:5px"></i>
+<i class="fas fa-id-card-o" style="color:DarkTurquoise;margin-right:5px"></i>
+<i class="fa fa-id-card-o" style="color:DarkTurquoise;margin-right:5px"></i>
+<i class="fas fa-file-text" style="color:DarkTurquoise;margin-right:5px"></i>
 
