@@ -32,6 +32,6 @@ types of methods that can be used to obtain this measurement.
 <i class="fa fa-hourglass"></i> v4.4
 
 <i class="fas fa-id-card-o" style="color:DarkTurquoise;margin-right:5px"></i>
-<i class="fa fa-id-card-o" style="color:DarkTurquoise;margin-right:5px"></i>
+<i class="fa fa-tag" style="color:DarkTurquoise;margin-right:5px"></i>
 <i class="fas fa-file-text" style="color:DarkTurquoise;margin-right:5px"></i>
 
