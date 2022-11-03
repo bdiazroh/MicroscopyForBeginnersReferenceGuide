@@ -23,9 +23,13 @@ types of methods that can be used to obtain this measurement.
 
 <i class="fas fa-file" style="color:DarkTurquoise;margin-right:5px"></i> Test text here
 
-<i class="fas fa-file-text style="color:DarkTurquoise;margin-right:5px"></i> Test text here
+<i class="fas fa-file-text style="color:DarkTurquoise;margin-right:5px"></i> Test text here                                         
+                                                                      
+<i class="fa fa-file-text style="color:DarkTurquoise;margin-right:5px"></i> Test text here                                              
 
 <i class="fab fa-file-text style="color:DarkTurquoise;margin-right:5px"></i> Test text here
 
-
 <i class="fas fa-file"></i>
+<i class="fas fa-bell"></i>
+<i class="fa fa-bell"></i>
+
