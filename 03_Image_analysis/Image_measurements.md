@@ -5,7 +5,9 @@
 scale: 50%
 figclass: margin
 ---
+Colocalization
 ```
+
 ## Colocalization
 
 ```{dropdown} What is a colocalization coefficient?
