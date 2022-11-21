@@ -37,3 +37,7 @@ html:
   use_issues_button: true
   use_repository_button: true
   favicon                   : "favicon.png"  # A path to a favicon image
+
+sphinx:
+  extra_extensions:
+    - sphinxcontrib.mermaid
