@@ -50,6 +50,8 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+    <script>mermaid.initialize({startOnLoad:true});</script>
     <link rel="shortcut icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -439,7 +441,25 @@ title="Print to PDF"
 <section id="introduction">
 <h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">#</a></h2>
 <p>Microscopy images are inherently quantitative, which makes them a very powerful data source. As a biologist, image analysis allows you to translate these numbers into insights that answer biological questions. For our purposes, <strong>image analysis</strong> is the process of measuring aspects of biological phenomena captured in microscopy images. Microscopy images are already <em>inherently quantitative</em> in that they are matrices (i.e., grids) of numbers. However, image analysis is the process of turning these raw numbers into biologically interpretable measurements. Image analysis typically involves a series of steps that can be collected into a pipeline or analysis workflow. A simple example workflow is shown below:</p>
-</section>
+<div class="mermaid">
+            flowchart LR
+   A[Raw image] --&gt;|Illumination correction| B[Corrected image]
+   B --&gt;|Segmentation| C((Identified objects \n e.g., cells, nuclei))
+   C --&gt;|Measure morphology| D(Morphology measurements \n e.g., Average cell area)
+
+   B &amp; C--&gt;|Measure intensity|G(Intensity measurements \n e.g., Average eGFP intensity)
+  classDef empty width:0px,height:0px;
+
+ style G fill:#DCC7FA, stroke:#8338EC
+
+ style C fill:#FFF4d6,stroke:#FFBE0B
+
+ style A fill:#FFD6E8,stroke:#F5006A
+ style B fill:#FFD6E8,stroke:#F5006A
+
+ style D fill:#D6E6FF,stroke:#3A86FF
+ style G fill:#D6E6FF,stroke:#3A86FF
+        </div></section>
 <div class="toctree-wrapper compound">
 </div>
 </section>
